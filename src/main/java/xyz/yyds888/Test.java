@@ -12,7 +12,7 @@ public class Test {
         User.say();
         System.out.println("你好！");
         System.out.println("在github上编辑1次，在idea编辑1次");
-        System.out.println("在idea编辑2次");
+        System.out.println("完成idea与github合并1次");
     }
 
 }
