@@ -22,6 +22,8 @@ public class Test {
 
         System.out.println("idea_5_1");
         System.out.println("idea_5_2");
+
+        System.out.println("这里的master2分支");
     }
 
 }
