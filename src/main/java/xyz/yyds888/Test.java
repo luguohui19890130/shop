@@ -10,7 +10,7 @@ public class Test {
 
     public static void main(String[] args) {
         User.say();
-
+        System.out.println("你好！");
     }
 
 }
