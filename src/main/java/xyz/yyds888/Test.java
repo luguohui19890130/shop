@@ -14,6 +14,7 @@ public class Test {
 
         System.out.println("IDEA_2");
 
+        System.out.println("idea_3");
         System.out.println("github_3");
     }
 
