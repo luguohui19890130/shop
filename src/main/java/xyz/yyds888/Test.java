@@ -12,7 +12,7 @@ public class Test {
         System.out.println("你好！123");
         System.out.println("你好！ABC");
 
-        System.out.println("IDEA_1");
+        System.out.println("GITHUB_2");
 
     }
 
